@@ -1,0 +1,12 @@
+ #!/bin/bash
+echo "ALX"\
+
+#!/bin/bash
+eho "ALX" \
+
+#!/bin/bash
+eho "ALX" \
+
+#!/bin/bash
+echo "ALX"\
+
